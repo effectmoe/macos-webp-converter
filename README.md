@@ -37,14 +37,14 @@ macOSのFinder右クリックメニューから、画像ファイルを簡単に
 ### 1行コマンド（推奨）
 
 ```bash
-git clone https://github.com/tonychustudio/macos-webp-converter.git && cd macos-webp-converter && chmod +x install.sh && ./install.sh
+git clone https://github.com/effectmoe/macos-webp-converter.git && cd macos-webp-converter && chmod +x install.sh && ./install.sh
 ```
 
 ### 手動インストール
 
 ```bash
 # 1. リポジトリをクローン
-git clone https://github.com/tonychustudio/macos-webp-converter.git
+git clone https://github.com/effectmoe/macos-webp-converter.git
 cd macos-webp-converter
 
 # 2. インストールスクリプトを実行
@@ -134,7 +134,7 @@ brew install webp
 chmod +x ~/Scripts/convert_to_webp.sh
 ```
 
-詳細なトラブルシューティングは、[ユーザーマニュアル](https://github.com/tonychustudio/macos-webp-converter/wiki)を参照してください。
+詳細なトラブルシューティングは、[ユーザーマニュアル](https://github.com/effectmoe/macos-webp-converter/wiki)を参照してください。
 
 ## 📂 ファイル構成
 
@@ -174,9 +174,9 @@ macos-webp-converter/
 
 ## 👤 作者
 
-**tonychustudio**
+**effectmoe**
 
-- GitHub: [@tonychustudio](https://github.com/tonychustudio)
+- GitHub: [@effectmoe](https://github.com/effectmoe)
 
 ## 🙏 謝辞
 
